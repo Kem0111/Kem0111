@@ -18,12 +18,17 @@ Bachelor of Project Management (2013-2017)
 
 ### EXPERIENCE  
 
+Developed a web application on Flask using PostgreSQL and HTML parsing. The application tracks discounted products on the Turkish site trendyol.com.
 
-Developed a Flask web application utilizing PostgreSQL, HTML page parsing, and Jinja 2 templating; deployed the application in a production environment on the PaaS platform Render.  
-Developed chatbots for messengers using an asynchronous approach with AsyncIO, aiohttp, and aiogram, as well as integrated APIs from other services to expand functionality and interaction.  
-Deployed a Django project in a production environment on the PaaS platform Railway, using PostgreSQL as the database.  
-Worked with asynchronous microservices within a microservice architecture to improve system performance and scalability.    Developed an analytics service for collecting and analyzing task execution data, generating reports, and providing statistics.  
-I designed and implemented my own project: an asynchronous Telegram bot that uses aiohttp and the Etherscan API to track Ethereum addresses. The bot provides access to the history of transactions and smart contract events related to the tracked addresses. The entire project was deployed on the Amazon Web Services (AWS) cloud platform, including the use of a PostgreSQL database in the Amazon RDS service for data storage
+Designed and implemented my own project: an asynchronous Telegram bot that uses aiohttp and etherscan to track Ethereum addresses. The bot provides the history of transactions and smart contract events, as well as wallet token balances associated with the tracked addresses. The project was deployed on AWS.
+
+Developed an e-cigarette sales website for an offline market using Django. Implemented a shopping cart, authentication, and a bonus system, and also connected online payment.
+
+Developed an analytics service: collection and analysis of task execution data, generation of reports and statistics. Thanks to this service, the company was able to automate the process of analysis and compilation of reports on assigned tasks.
+
+Developed a trading bot with Binance API integration, for automatic opening of shorts according to a given algorithm. Thanks to the bot, the customer was able to automate his trading by analyzing the prices of futures of certain categories of cryptocurrencies and opening positions by signal.
+
+Created a web site with a payment gateway for paying for services through CoinGate. Considering the low transaction fees in cryptocurrencies, this step helped the client reduce operational costs and increase profitability.
 
 ---
 
