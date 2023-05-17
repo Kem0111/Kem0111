@@ -39,5 +39,6 @@ Created a web site with a payment gateway for paying for services through CoinGa
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![Unit Testing](https://img.shields.io/badge/-Unit%20Testing-5A6378?style=flat-square&logo=testing-library&logoColor=white) ![REST](https://img.shields.io/badge/-REST-FF6C37?style=flat-square&logo=rest&logoColor=white)
 
 
-
+<img src="https://github-readme-stats.vercel.app/api?username=Kem0111&show_icons=true"/>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kem0111&layout=compact"/> 
 
