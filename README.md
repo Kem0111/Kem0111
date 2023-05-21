@@ -8,27 +8,11 @@ How to contact me: just send email to abulov.kamran@gmail.com
 ---
 
 ### EDUCATION  
-Hexlet Academy (2022-2023)
+Hexlet Academy (2022)
 Python-backend developer
 
 Moscow University for Industry and Finance
 Bachelor of Project Management (2013-2017)  
-
----
-
-### EXPERIENCE  
-
-Developed a web application on Flask using PostgreSQL and HTML parsing. The application tracks discounted products on the Turkish site trendyol.com.
-
-Designed and implemented my own project: an asynchronous Telegram bot that uses aiohttp and etherscan to track Ethereum addresses. The bot provides the history of transactions and smart contract events, as well as wallet token balances associated with the tracked addresses. The project was deployed on AWS.
-
-Developed an e-cigarette sales website for an offline market using Django. Implemented a shopping cart, authentication, and a bonus system, and also connected online payment.
-
-Developed an analytics service: collection and analysis of task execution data, generation of reports and statistics. Thanks to this service, the company was able to automate the process of analysis and compilation of reports on assigned tasks.
-
-Developed a trading bot with Binance API integration, for automatic opening of shorts according to a given algorithm. Thanks to the bot, the customer was able to automate his trading by analyzing the prices of futures of certain categories of cryptocurrencies and opening positions by signal.
-
-Created a web site with a payment gateway for paying for services through CoinGate. Considering the low transaction fees in cryptocurrencies, this step helped the client reduce operational costs and increase profitability.
 
 ---
 
