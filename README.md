@@ -1,6 +1,6 @@
 Hi, there 🤚
 
-I'm a Python developer with 2-year programming experience, accomplished projects, and skills working with various frameworks, seeking to gain experience, contribute to successful projects, and grow alongside the team.I speak four languages and enjoy sports, outdoor activities, and programming.
+I'm a Python developer with 3-year programming experience, accomplished projects, and skills working with various frameworks, seeking to gain experience, contribute to successful projects, and grow alongside the team.I speak four languages and enjoy sports, outdoor activities, and programming.
 
 
 How to contact me: just send email to abulov.kamran@gmail.com
